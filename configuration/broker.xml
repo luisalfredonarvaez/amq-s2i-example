@@ -38,6 +38,8 @@ under the License.
        -->
       <journal-type>NIO</journal-type>
 
+      <global-max-size>64mb</global-max-size>
+
       <paging-directory>/opt/amq/data/paging</paging-directory>
 
       <bindings-directory>/opt/amq/data/bindings</bindings-directory>
